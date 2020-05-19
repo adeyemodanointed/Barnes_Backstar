@@ -1,0 +1,2 @@
+rootProject.name='Barnes Backstar'
+include ':app'
